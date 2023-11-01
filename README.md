@@ -1,4 +1,4 @@
-# Reactivities-Asp.Net-React_TS
+# Reactivities (Asp.Net-React-TS)
 
 ![image](https://github.com/AmirNotch/Reactivities-Asp.Net-React_TS/assets/69799846/6d3fca17-bbc3-449c-b3fa-f8545cc809a7)
 
